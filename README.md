@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <a href="https://github.com/Romavic"><img src="https://avatars0.githubusercontent.com/u/43910375?s=460&u=5c0c16038daf06d3ba75f4a56e42fb6102710abb&v=4" alt="Romavic Banner"></a>
-</p>
+</p>-->
+
 
 <h1 align="center">Hi, I'm <a href="https://github.com/Romavic">Romavic dos Anjos</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
