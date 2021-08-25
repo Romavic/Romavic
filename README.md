@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/Romavic">Romavic dos Anjos</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile</h1>
-
-
 <p align="center">
   <a href="https://github.com/Romavic"><img src="https://github-readme-stats.vercel.app/api?username=Romavic&hide_border=true&show_icons=true" alt="Romavic's github stats"></a>
 </p>
@@ -12,9 +8,7 @@
   <strong><a href="https://www.facebook.com/romavicdosanjoskc/">Facebook</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working with Java, Kotlin, Dart(Framework Flutter) languages.</p>
-
-**Languages and Tools:**  
+**Working with this Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
