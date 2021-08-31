@@ -1,17 +1,16 @@
-<p align="center">
-  <a href="https://github.com/Romavic"><img src="https://github-readme-stats.vercel.app/api?username=Romavic&hide_border=true&show_icons=true" alt="Romavic's github stats"></a>
-</p>
+### Hi there 👋
 
-<p align="center">
-  <strong><a href="https://twitter.com/RomavicdosAnjos">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/romavic-dos-anjos-4946821a9/">LinkedIn</a></strong> |
-  <strong><a href="https://www.facebook.com/romavicdosanjoskc/">Facebook</a></strong>
-</p>
+I am a Software engineer with experience in building intelligent & scalable applications using Java | Kotlin and Flutter.
+I love mobile apps, distributed systems, open source projects and the challenges associated with them.
+I like sharing my knowledge with other engineers.
 
-**Working with this Languages and Tools:**  
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+- 🌱 I’m currently working with Android Kotlin and Flutter Framework
+- 👯 I’m looking to collaborate on open source Android Kotlin and Flutter project 
+- 💬 Ask me about Java | Kotlin and Flutter
+- 📫 How to reach me: [Github](https://github.com/Romavic), [Blog](https://dev.to/romavicdosanjos), [Twitter](https://twitter.com/RomavicdosAnjos), [Facebook](https://www.facebook.com/romavicdosanjoskc/), [Linkedin](https://www.linkedin.com/in/romavic-dos-anjos-4946821a9/)
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
+
